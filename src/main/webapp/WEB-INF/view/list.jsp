@@ -33,6 +33,6 @@
 	<%} %>
 	</table>
 	
-	<a href="./">戻る</a>
+	<a href="TopServlet">戻る</a>
 </body>
 </html>
